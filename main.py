@@ -3,7 +3,6 @@ import pandas as pd  # pip install pandas
 from send_email import send_email 
 from datetime import datetime, timedelta
 
-# Excel file uploaded at the paragon.ads.company@gmail.com google sheets
 # Public GoogleSheets url - not secure!
 SHEET_ID = ""  # CHANGE
 SHEET_NAME = ""  # CHANGE
